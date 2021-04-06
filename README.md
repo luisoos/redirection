@@ -1,4 +1,4 @@
-# linksite
+# Redirection link - info
 With this short code you link an external website and you will be directly redirected to it.
 
 If you click on the file / open the website you will be redirected  directly to your destination.
